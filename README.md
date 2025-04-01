@@ -2,5 +2,3 @@
 CS50 Python course
 
 Test Remote Connections!
-Test
-\nTest
